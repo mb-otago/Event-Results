@@ -1,4 +1,3 @@
-# [Funduro]
-## [Round-1](./round-1)
+# [Gravity-101]
 ## [Round-2](./round-2)
 ## [Round-3](./round-3)
