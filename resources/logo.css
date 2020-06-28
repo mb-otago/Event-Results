@@ -1,0 +1,7 @@
+#logo {
+    width: 650px;
+    height: 220px;
+    background: url("https://mb-otago.github.io/Event-Results/resources/mbo-logo.png") left top no-repeat;
+    overflow: hidden;
+    display: block;
+}
