@@ -1,4 +1,4 @@
 # [Funduro]
 ## [2020](..)
-* [Round 1 - Whare Flat](./round-1)
+* [Winter Funduro - Whare Flat](./Wint)
 * [Round 2 - Whare Flat](./round-2)
